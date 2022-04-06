@@ -35,51 +35,51 @@ The metrics for all 6 Machine Learning Models are displayed below...
 PART 1:
 
 Naive Over-Sampling + Logisitic Regression:
-Accuracy: 67.9%
+Accuracy: 67.9% <br/>
 Confusion Matrix:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Credit_Risk_Analysis/main/Resources/cm_naive.png)
 
 Classification Report:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
-Precision: 99%
+Precision: 99% <br/>
 Recall: 68%
 
 
 SMOTE Over-Sampling + Logistic Regression:
-Accuracy: 65.6%
+Accuracy: 65.6% <br/>
 Confusion Matrix:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
 Classifiction Report:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
-Precision: 99%
+Precision: 99% <br/>
 Recall: 66%
 
 
 Centroid Clusters Under-Sampling + Logistic Regression:
-Accuracy: 45%
+Accuracy: 45% <br/>
 Confusion Matrix:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
 Classification Report:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
-Precision: 99%
+Precision: 99% <br/>
 Recall: 45%
 
 
 
 SMOTEEN Over and Under Sampling + Logistic Regression:
-Accuracy: 57.1%
+Accuracy: 57.1% <br/>
 Confusion Matrix: 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
 Classification Report:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
-Precision: 99%
+Precision: 99% <br/>
 Recall: 57%
 
 
@@ -87,27 +87,27 @@ Recall: 57%
 PART 2:
 
 Balanced Random Forest Classifier:
-Accuracy: 80.1%
+Accuracy: 80.1% <br/>
 Confusion Matrix: 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
 Classification Report: 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
-Precision: 99%
+Precision: 99% <br/>
 Recall: 90%
 
 
 
 Easy Ensemble AdaBoost Classifier:
-Accuracy: 92.6%
+Accuracy: 92.6% <br/>
 Confusion Matrix:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
 Classification Report:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
 
-Precision: 99%
+Precision: 99% <br/>
 Recall: 94%
 
 
