@@ -113,3 +113,9 @@ Recall: 94%
 
 ## Summary
 
+From the results, the most glaring outcomes are the success of the ensemble learning algorithms. The Balanced Random Forest had an accuracy of 80.1% and Recall of 90% while the Easy Ensemble had an accuracy of 92.6% and Recall of 94%.
+
+The other algorithms that resampled the data and applied the Logistic Regression model preformed much worse. Their accuracies ranged from 45% to 67.9% and recalls that ranged from 45% to 68%. Since these models preformed significantly worse than the ensemble algorithms I would not recommend any of these.
+
+With that being said I still would NOT recommend the ensemble algorithms either. The glaring issue with these models is best seen in the confusion matrices. The Balanced Random Forest Classifier had 1694 False Negatives and the Easy Ensemble Model had 957 False Negatives. False Negatives means that the algorithm predicted the credit loan was low risk when in reality it was high risk. Considering this data set is out 17,205 that means that a large portion of these credit card loans would be given to "high risk" accounts on the basis that the model thinks they are actually "low risk" accounts. Credit Card Companies would want to avoid this scenario which is why I wouldn't recommend any of these models. 
+
