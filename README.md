@@ -37,7 +37,7 @@ PART 1:
 Naive Over-Sampling + Logisitic Regression:
 Accuracy: 67.9%
 Confusion Matrix:
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Credit_Risk_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Credit_Risk_Analysis/main/Resources/cm_naive.png)
 
 Classification Report:
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
