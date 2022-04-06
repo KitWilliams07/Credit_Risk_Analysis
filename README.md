@@ -40,7 +40,7 @@ Confusion Matrix: <br/>
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Credit_Risk_Analysis/main/Resources/cm_naive.png)
 
 Classification Report: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/Resources/cr_naive.png)
 
 Precision: 99% <br/>
 Recall: 68%
@@ -49,10 +49,10 @@ Recall: 68%
 SMOTE Over-Sampling + Logistic Regression: <br/>
 Accuracy: 65.6% <br/>
 Confusion Matrix: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cm_smote.png)
 
 Classifiction Report: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cr_smote.png)
 
 Precision: 99% <br/>
 Recall: 66%
@@ -61,23 +61,23 @@ Recall: 66%
 Centroid Clusters Under-Sampling + Logistic Regression: <br/>
 Accuracy: 45% <br/>
 Confusion Matrix: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cm_centroid.png)
 
 Classification Report: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cr_centroid.png)
 
 Precision: 99% <br/>
 Recall: 45%
 
 
 
-SMOTEEN Over and Under Sampling + Logistic Regression: <br/>
+SMOTEENN Over and Under Sampling + Logistic Regression: <br/>
 Accuracy: 57.1% <br/>
 Confusion Matrix: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cm_smoteenn.png)
 
 Classification Report: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cr_smoteenn.png)
 
 Precision: 99% <br/>
 Recall: 57%
@@ -89,10 +89,10 @@ PART 2:
 Balanced Random Forest Classifier: <br/>
 Accuracy: 80.1% <br/>
 Confusion Matrix: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cm_brf.png)
 
 Classification Report: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cr_brf.png)
 
 Precision: 99% <br/>
 Recall: 90%
@@ -102,10 +102,10 @@ Recall: 90%
 Easy Ensemble AdaBoost Classifier: <br/>
 Accuracy: 92.6% <br/>
 Confusion Matrix: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cm_easy.png)
 
 Classification Report: <br/>
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Challenge/y.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Amazon_Vine_Analysis/main/Resources/cr_easy.png)
 
 Precision: 99% <br/>
 Recall: 94%
